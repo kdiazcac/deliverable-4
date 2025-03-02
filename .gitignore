@@ -1,0 +1,6 @@
+# VS Code specific files
+.vscode/
+
+# IntelliJ specific files
+.idea/
+out/
