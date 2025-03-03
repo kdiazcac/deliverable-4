@@ -4,3 +4,6 @@
 # IntelliJ specific files
 .idea/
 out/
+
+# Compiled Java class files
+*.class
