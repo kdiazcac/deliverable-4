@@ -116,4 +116,7 @@ Replace `/path/to/javafx-sdk-21.0.6/lib` with the actual path to your JavaFX lib
 ## Team Members
 
 - **Kevin Diaz**
+- **Isaac Cook**
+- **Justin Zimmerman**
+- **Manjoban Hundul**
 
