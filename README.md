@@ -82,7 +82,7 @@ Replace `/path/to/javafx-sdk-21.0.6/lib` with the actual path to your JavaFX lib
 
 ## Video Demonstration
 
-[Link to video demonstration](#) <!-- Add your video URL here -->
+[Link to video demonstration](https://youtu.be/ULTjNP3O8VI)
 
 ## Features
 
